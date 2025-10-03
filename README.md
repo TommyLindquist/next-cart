@@ -12,7 +12,7 @@ A minimalist e-commerce platform built with Next.js 15 and TypeScript, using dat
 - 🚀 [Workflow](#-workflow)
 - 🤝 [Contributing](#-contributing)
 - 📜 [License](#-license)
-- 🧑‍💻 [My Contributions](#my-contributions)
+- 🧑‍💻 [My Contributions](#-my-contributions)
 
 
 ## 📖 About the project
