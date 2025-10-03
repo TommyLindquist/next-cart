@@ -12,6 +12,8 @@ A minimalist e-commerce platform built with Next.js 15 and TypeScript, using dat
 - 🚀 [Workflow](#-workflow)
 - 🤝 [Contributing](#-contributing)
 - 📜 [License](#-license)
+- 🧑‍💻 [My Contributions](#-my-contributions)
+
 
 ## 📖 About the project
 
@@ -236,3 +238,16 @@ For questions, use GitHub Issues. Thanks for helping! 🚀
 ## 📜 License
 
 This project is developed for educational purposes and is not intended for production.
+
+## 🧑‍💻 My Contributions
+
+- Created image carousel for product cards  
+- Converted color-font to support Chrome, Edge, Firefox  
+- Enabled multi-category filtering in product GUI  
+- Built quantity component  
+- Invented fallback data when remote database is cleared  
+- Reworked Hero to use grid layout, made it responsive, filtered products with images  
+- Designed and implemented footer with color-font support  
+- Created initial slug route  
+- Implemented GraphQL mutation to delete products in admin  
+- Built initial product loading skeleton
